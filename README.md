@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @CastilhoY
-- 👀 I’m interested in programação
+- 👀 Estou interessado em programação
+- 🎓 Cursando ciência da computação
+- 🔰 Oficial r/2 do exército brasileiro 
