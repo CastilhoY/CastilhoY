@@ -1,4 +1,4 @@
-## Yãry Castilho.
+## Yãry Castilho
 
 - 🔭 Trabalho com front end.
 - 🔰 Aspirante a oficial r/2.
