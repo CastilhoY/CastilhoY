@@ -1,6 +1,6 @@
-## Olá! me chamo Yãry Castilho.
+## Yãry Castilho.
 
-- 🔭 Hoje eu trabalho com front end.
+- 🔭 Trabalho com front end.
 - 🔰 Aspirante a oficial r/2.
 
    <div style="display: inline_block"><br>
