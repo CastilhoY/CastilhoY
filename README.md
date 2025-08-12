@@ -1,6 +1,6 @@
 ## Yãry Castilho
 
-- 🔭 Trabalho com front end.
+- 🎓 Front End.
 - 🔰 Aspirante a oficial r/2.
 
 <div style="display: inline_block"><br>
